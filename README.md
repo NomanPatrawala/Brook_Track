@@ -26,3 +26,6 @@ Place matching background images in the covers/ folder
 Run the app.
 
 
+<img width="813" height="664" alt="Screenshot 2025-08-04 221324" src="https://github.com/user-attachments/assets/715a1afa-ae54-402f-85be-2f57bc4b4180" />
+<img width="811" height="658" alt="Screenshot 2025-08-04 221400" src="https://github.com/user-attachments/assets/ad1a234e-18d7-4f5f-a792-a9f2eed49754" />
+
